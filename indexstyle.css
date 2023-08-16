@@ -151,6 +151,13 @@
     margin-top: 10px;
   
 }
+.text-footer{
+    color: white;
+ }
+ .fa-brands{
+    font-size: 35px;
+    margin-left: 10px;
+ }
 .slider-div{
     height: 500px;
     width: 100%;
