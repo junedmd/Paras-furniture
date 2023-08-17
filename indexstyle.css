@@ -336,6 +336,8 @@ span{
  border-radius: 10px;
   font-size: 17px;
   border: none;
+  position: relative;
+  bottom: 10px;
   
 }
 .dropdown {

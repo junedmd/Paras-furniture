@@ -63,6 +63,35 @@
     margin-left: 20px;
     color: rgb(229, 99, 51);
  }
+ .sec-navbar{
+   height: 80px;
+   width: 100%;
+   background-color: rgb(133, 114, 215);
+ 
+ }
+ .sec-navbar ul{
+   display: flex;
+   gap: 100px;
+   font-size: 20px;
+  
+   list-style: none;
+   text-decoration: none;
+ }
+ .sec-navbar ul li{
+   margin-top: 20px;
+ }
+ .sec-navbar ul li a{
+   text-decoration: none;
+   color: aliceblue;
+   margin-top: 20px;
+ }
+ .link{
+    margin-left: 70px; 
+ }
+
+.icon{
+   height: 26px;
+}
  .container{
     display: flex;
     position: relative;
@@ -86,7 +115,7 @@
  .box2{
    background-color: white; 
   border: 1px solid black; 
-  height: 241px;
+  height: 244px;
   width: 250px;
   padding: 10px;
 }
