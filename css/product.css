@@ -107,14 +107,14 @@
 
   .box{
      background-color: white; 
-    border: 1px solid black; 
+    border: 2px solid black; 
     height: 300px;
     width: 250px;
     padding: 10px;
  }
  .box2{
    background-color: white; 
-  border: 1px solid black; 
+  border: 2px solid black; 
   height: 244px;
   width: 250px;
   padding: 10px;
